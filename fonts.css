@@ -1,0 +1,120 @@
+/* Oranienbaum */
+@font-face {
+  font-family: "Oranienbaum";
+  src: url("oranienbaum-r.eot");
+  src: url("oranienbaum-r.eot@") format("embedded-opentype"), url("oranienbaum-r.woff2") format("woff2"), url("oranienbaum-r.woff") format("woff"), url("oranienbaum-r.ttf") format("truetype"), url("oranienbaum-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+/* \Oranienbaum */
+/* Oswald */
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-e-l.eot");
+  src: url("oswald-e-l.eot@") format("embedded-opentype"), url("oswald-e-l.woff2") format("woff2"), url("oswald-e-l.woff") format("woff"), url("oswald-e-l.ttf") format("truetype"), url("oswald-e-l.svg") format("svg");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-l.eot");
+  src: url("oswald-l.eot@") format("embedded-opentype"), url("oswald-l.woff2") format("woff2"), url("oswald-l.woff") format("woff"), url("oswald-l.ttf") format("truetype"), url("oswald-l.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-r.eot");
+  src: url("oswald-r.eot@") format("embedded-opentype"), url("oswald-r.woff2") format("woff2"), url("oswald-r.woff") format("woff"), url("oswald-r.ttf") format("truetype"), url("oswald-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-m.eot");
+  src: url("oswald-m.eot@") format("embedded-opentype"), url("oswald-m.woff2") format("woff2"), url("oswald-m.woff") format("woff"), url("oswald-m.ttf") format("truetype"), url("oswald-m.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-s-b.eot");
+  src: url("oswald-s-b.eot@") format("embedded-opentype"), url("oswald-s-b.woff2") format("woff2"), url("oswald-s-b.woff") format("woff"), url("oswald-s-b.ttf") format("truetype"), url("oswald-s-b.svg") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("oswald-b.eot");
+  src: url("oswald-b.eot@") format("embedded-opentype"), url("oswald-b.woff2") format("woff2"), url("oswald-b.woff") format("woff"), url("oswald-b.ttf") format("truetype"), url("oswald-b.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+/* \Oswald */
+/* Ubuntu */
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-l.eot");
+  src: url("ubuntu-l.eot@") format("embedded-opentype"), url("ubuntu-l.woff2") format("woff2"), url("ubuntu-l.woff") format("woff"), url("ubuntu-l.ttf") format("truetype"), url("ubuntu-l.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-l-i.eot");
+  src: url("ubuntu-l-i.eot@") format("embedded-opentype"), url("ubuntu-l-i.woff2") format("woff2"), url("ubuntu-l-i.woff") format("woff"), url("ubuntu-l-i.ttf") format("truetype"), url("ubuntu-l-i.svg") format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-r.eot");
+  src: url("ubuntu-r.eot@") format("embedded-opentype"), url("ubuntu-r.woff2") format("woff2"), url("ubuntu-r.woff") format("woff"), url("ubuntu-r.ttf") format("truetype"), url("ubuntu-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-i.eot");
+  src: url("ubuntu-i.eot@") format("embedded-opentype"), url("ubuntu-i.woff2") format("woff2"), url("ubuntu-i.woff") format("woff"), url("ubuntu-i.ttf") format("truetype"), url("ubuntu-i.svg") format("svg");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-m.eot");
+  src: url("ubuntu-m.eot@") format("embedded-opentype"), url("ubuntu-m.woff2") format("woff2"), url("ubuntu-m.woff") format("woff"), url("ubuntu-m.ttf") format("truetype"), url("ubuntu-m.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-m-i.eot");
+  src: url("ubuntu-m-i.eot@") format("embedded-opentype"), url("ubuntu-m-i.woff2") format("woff2"), url("ubuntu-m-i.woff") format("woff"), url("ubuntu-m-i.ttf") format("truetype"), url("ubuntu-m-i.svg") format("svg");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-b.eot");
+  src: url("ubuntu-b.eot@") format("embedded-opentype"), url("ubuntu-b.woff2") format("woff2"), url("ubuntu-b.woff") format("woff"), url("ubuntu-b.ttf") format("truetype"), url("ubuntu-b.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("ubuntu-b-i.eot");
+  src: url("ubuntu-b-i.eot@") format("embedded-opentype"), url("ubuntu-b-i.woff2") format("woff2"), url("ubuntu-b-i.woff") format("woff"), url("ubuntu-b-i.ttf") format("truetype"), url("ubuntu-b-i.svg") format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+/* \Ubuntu */
+/* Yeseva One */
+@font-face {
+  font-family: "Yeseva One";
+  src: url("yeseva_one-r.eot");
+  src: url("yeseva_one-r.eot@") format("embedded-opentype"), url("yeseva_one-r.woff2") format("woff2"), url("yeseva_one-r.woff") format("woff"), url("yeseva_one-r.ttf") format("truetype"), url("yeseva_one-r.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+/* \Yeseva One */
