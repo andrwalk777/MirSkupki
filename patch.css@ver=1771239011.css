@@ -1,0 +1,67 @@
+html .owl-carousel button.owl-dot { color: rgb(0, 0, 0); }
+html body { color: rgb(27, 210, 5); }
+html body { background-color: rgba(255, 255, 255, 0); }
+html .text-general { color: rgb(0, 0, 0); }
+html .button-general { color: rgba(0, 0, 0, 0.6); }
+html .button-general { background-color: rgba(248, 231, 28, 0.7); }
+html .button-general { border-top-color: rgb(248, 231, 28); }
+html .button-general { border-right-color: rgb(248, 231, 28); }
+html .button-general { border-bottom-color: rgb(248, 231, 28); }
+html .button-general { border-left-color: rgb(248, 231, 28); }
+html .button-general:hover { background-color: rgb(248, 231, 28); }
+html .button-general:hover { color: rgb(0, 0, 0); }
+html .button-general:hover { border-top-color: rgb(0, 0, 0); }
+html .button-general:hover { border-right-color: rgb(0, 0, 0); }
+html .button-general:hover { border-bottom-color: rgb(0, 0, 0); }
+html .button-general:hover { border-left-color: rgb(0, 0, 0); }
+html .one-screen::before { background-color: rgba(0, 0, 0, 0.46); }
+html .one-screen .text-part__button { background-color: rgb(126, 211, 33); }
+html .one-screen .text-part__button { border-top-color: rgb(126, 211, 33); }
+html .one-screen .text-part__button { border-right-color: rgb(126, 211, 33); }
+html .one-screen .text-part__button { border-bottom-color: rgb(126, 211, 33); }
+html .one-screen .text-part__button { border-left-color: rgb(126, 211, 33); }
+html .one-screen .text-part__button:hover { background-color: rgb(11, 233, 217); }
+html .one-screen .text-part__button:hover { color: rgb(0, 0, 0); }
+html .one-screen .text-part__button:hover { border-top-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:hover { border-right-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:hover { border-bottom-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:hover { border-left-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:hover { text-shadow: rgba(0, 0, 0, 0.3) 0px 1px 0px; }
+html .one-screen .advatages-part__pic { background-color: rgba(31, 29, 29, 0); }
+html .one-screen .advatages-part__pic svg path { fill: rgb(126, 211, 33); }
+html .serv_bl3_wrapper { background-color: rgb(255, 255, 255); }
+html .serv_bl3_wrapper .serv_bl3_wrap { background-color: rgb(255, 255, 255); }
+html .serv_bl3_wrapper .owl-dots .owl-dot { border-top-color: rgb(248, 231, 28); }
+html .serv_bl3_wrapper .owl-dots .owl-dot { border-right-color: rgb(248, 231, 28); }
+html .serv_bl3_wrapper .owl-dots .owl-dot { border-bottom-color: rgb(248, 231, 28); }
+html .serv_bl3_wrapper .owl-dots .owl-dot { border-left-color: rgb(248, 231, 28); }
+html .num-list .block-in ul li ins { border-top-color: rgb(248, 231, 28); }
+html .num-list .block-in ul li ins { border-right-color: rgb(248, 231, 28); }
+html .num-list .block-in ul li ins { border-bottom-color: rgb(248, 231, 28); }
+html .num-list .block-in ul li ins { border-left-color: rgb(248, 231, 28); }
+html .num-list .block-in ul li ins { color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_wrap::before { background-color: rgba(102, 102, 102, 0.1); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field input[type="text"] { background-color: rgba(255, 255, 255, 0.55); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field input[type="text"]::-webkit-input-placeholder { color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button { background-color: rgba(248, 231, 28, 0.4); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button { border-top-color: rgb(255, 255, 255); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button { border-right-color: rgb(255, 255, 255); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button { border-bottom-color: rgb(255, 255, 255); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button { border-left-color: rgb(255, 255, 255); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { background-color: rgb(248, 231, 28); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { border-top-color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { border-right-color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { border-bottom-color: rgb(0, 0, 0); }
+html .form_bl3_wrapper .form_bl3_in .tpl-field.tpl-field-button button:hover { border-left-color: rgb(0, 0, 0); }
+html .reviews_bl_wrapper .reviews_bl_wrap { background-color: rgb(255, 255, 255); }
+html .reviews_bl_wrapper .rev_bl_slider .rev_item { box-shadow: rgba(255, 255, 255, 0.1) 0px 0px 8px; }
+html .multy_offices { background-color: rgb(255, 255, 255); }
+html .multy_offices .single-office_wrap { box-shadow: rgb(0, 0, 0) 0px 1px 2px; }
+html .one-screen::after { background-color: rgba(0, 0, 0, 0.46); }
+html .one-screen .text-part__button:active { background-color: rgba(248, 231, 28, 0.05); }
+html .one-screen .text-part__button:active { color: rgb(250, 9, 9); }
+html .one-screen .text-part__button:active { border-top-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:active { border-right-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:active { border-bottom-color: rgb(248, 231, 28); }
+html .one-screen .text-part__button:active { border-left-color: rgb(248, 231, 28); }

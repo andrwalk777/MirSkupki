@@ -1,0 +1,15 @@
+html .steps_wrapper { background-color: rgb(125, 185, 224); }
+html .steps_wrapper .step:last-child .step_in .steps_num::before { background-image: url("7b6413dc92496360d99ea6dee7fe6a81.svg"); }
+html .steps_wrapper .step_in .steps_num { background-color: rgb(164, 202, 239); }
+html .one-screen::before { background-color: rgba(0, 0, 0, 0.45); }
+html .one-screen .contacts-part__address--icon { background-color: rgba(255, 255, 255, 0.14); }
+html .one-screen .contacts-part__phones--icon { background-color: rgba(255, 255, 255, 0.14); }
+html .one-screen .text-part__button { background-color: rgba(255, 255, 255, 0.35); }
+html .one-screen .text-part__button:hover { background-color: rgba(77, 180, 11, 0.6); }
+html .one-screen .text-part__button:active { background-color: rgb(126, 211, 33); }
+html .one-screen .advatages-part__pic { background-color: rgba(255, 255, 255, 0); }
+html .one-screen .advatages-part__pic svg path { fill: rgb(255, 255, 255); }
+html .one-screen.second-part .form-bottom-part .tpl-field button { color: rgb(0, 0, 0); }
+html .one-screen.second-part .form-bottom-part .tpl-field button { background-color: rgb(171, 205, 228); }
+html .one-screen.second-part .form-bottom-part .tpl-field button:hover { background-color: rgb(142, 238, 249); }
+html .one-screen.second-part .form-bottom-part .tpl-field button:active { background-color: rgb(248, 231, 28); }
